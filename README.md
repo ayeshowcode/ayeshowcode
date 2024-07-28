@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesh Abdullah</h1>
 <h3 align="center">I'm a CS student passionate about coding and innovation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshowcode&color=0e75b6&style=flat" alt="ayeshowcode" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshowcode&theme=darkhub" alt="ayeshowcode" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Data Structures**
