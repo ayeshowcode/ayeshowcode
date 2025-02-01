@@ -7,7 +7,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Machine Learning & Data Science, and Predictive Modeling. Exploring different techniques to extract insights from data!**
+- 🌱 I’m currently learning **Machine Learning & Data Science, predictive modeling and Generative AI . Exploring different techniques to extract insights from data!**
 
 - 💬 Ask me about **AI/ML**
 
