@@ -2,15 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hi,%20I'm%20Ayesh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+undergrad+%40+FAST-NUCES+Karachi;Learning+by+building+AI+agents;Open+to+internships+%26+junior+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+undergrad+%40+FAST-NUCES+Karachi;Building+AI+agents+and+LLM+pipelines;FastAPI+%7C+LangGraph+%7C+Next.js)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 I'm a third-year CS student at FAST-NUCES Karachi, focused on AI engineering. I like building things that actually work — mostly multi-agent systems and LLM pipelines. Still learning a lot, but I try to build seriously.
-
-Currently open to **internships** and **junior AI engineering roles**.
 
 ---
 
@@ -77,21 +75,19 @@ Implemented Dijkstra and Bellman-Ford routing algorithms in C++ with a visual in
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayeshowcode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayeshowcode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-[![Ayesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayeshowcode&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayeshowcode&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
 ## 📬 Let's Talk
-
-If you're looking for someone who's genuinely interested in AI engineering and wants to learn fast on the job — feel free to reach out.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayesh--qureshi.netlify.app-8B5CF6?style=flat-square)](https://ayesh-qureshi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesh%20Qureshi-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ayesh-qureshi)
