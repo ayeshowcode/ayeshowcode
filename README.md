@@ -64,8 +64,26 @@ Implemented Dijkstra and Bellman-Ford routing algorithms in C++ with a visual in
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ayesh-qureshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesh-qureshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ayeshowcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshowcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayeshowcode&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayeshowcode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Ayesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayeshowcode&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
