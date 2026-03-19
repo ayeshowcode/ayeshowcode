@@ -12,36 +12,6 @@ I'm a third-year CS student at FAST-NUCES Karachi, focused on AI engineering. I 
 
 ---
 
-## 🔨 Things I've Built
-
-### 🚀 AutoStartup · [Live ↗](https://auto-startup-1lvb.vercel.app)
-A multi-agent app that generates a full business plan from a single prompt. Six agents run in parallel — market research, competitor analysis, financials, GTM, risks, summary — then get synthesized into a structured output.
-
-`LangGraph` `OpenAI` `FastAPI` `Next.js` `TypeScript` `Vercel`
-
----
-
-### 🎧 SupportAI
-An AI customer support system with intent classification, RAG over a knowledge base, response generation, and escalation logic for when the agent should hand off to a human.
-
-`FastAPI` `LangChain` `LangSmith` `ChromaDB` `Next.js` `Celery` `Redis` `Docker`
-
----
-
-### 🤖 DevTeam.AI *(in progress)*
-Trying to build a system where specialized agents collaborate to write and structure a codebase from a product description — a PM agent, architect, coder, and QA agent working in a loop.
-
-`LangGraph` `Claude` `GPT-4o` `FastAPI` `Next.js` `WebSockets` `PostgreSQL`
-
----
-
-### 🌐 Packet Routing Simulator
-Implemented Dijkstra and Bellman-Ford routing algorithms in C++ with a visual interface showing how packets travel across a network topology. Academic project, but I enjoyed it more than I expected.
-
-`C++` `Graph Algorithms` `SFML`
-
----
-
 ## 🛠️ Tech I Work With
 
 **AI/LLM**
@@ -75,7 +45,7 @@ Implemented Dijkstra and Bellman-Ford routing algorithms in C++ with a visual in
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayeshowcode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayeshowcode&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
