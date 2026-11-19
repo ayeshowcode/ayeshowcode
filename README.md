@@ -14,4 +14,10 @@
 
 <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=ayeshowcode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="880">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshowcode/ayeshowcode/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayeshowcode/ayeshowcode/output/snake.svg">
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/ayeshowcode/ayeshowcode/output/snake-dark.svg" width="880">
+</picture>
+
 </div>
