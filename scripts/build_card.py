@@ -20,6 +20,11 @@ ABOUT = [
     ("based", "Karachi, Pakistan"),
     ("now", "Gatekeeper, a RAG agent that cannot regress"),
 ]
+CONTACT = [
+    ("web", "porfolio-ochre-six-81.vercel.app"),
+    ("mail", "m.ayesh904@gmail.com"),
+    ("x", "@Ayesh180"),
+]
 # Repo name -> one-line description shown in the projects table.
 FEATURED = [
     ("Gatekeeper", "RAG agent that gates its own lessons, no regressions"),
@@ -183,7 +188,13 @@ def build(theme, user, repos, days):
             cx += tw + 8
 
     H = 626
-    out.append(text(W - 22, H - 14, f"updated {today.isoformat()} from live GitHub data",
+    cx = 22
+    for k, v in CONTACT:
+        out.append(text(cx, H - 14, k, c["accent"], 12))
+        cx += (len(k) + 1) * 7.25
+        out.append(text(cx, H - 14, v, c["fg"], 12))
+        cx += (len(v) + 3) * 7.25
+    out.append(text(W - 22, H - 14, f"updated {today.isoformat()}",
                     c["dim"], 11, anchor="end"))
 
     style = (
